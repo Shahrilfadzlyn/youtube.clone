@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: roboto, arial;
+    background-color: rgb(247, 247, 247);
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
